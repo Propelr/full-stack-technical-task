@@ -51,3 +51,5 @@ We're going to build this web application into the next Zoopla or Rightmove and 
 Please send a link to your code, in a public Github repository, to [talent@propelr.co.uk](mailto:talent@propelr.co.uk).
 
 Your repository should include a README file explaining how to run the application and tests. This is also a great place to introduce any design or technology decisions you made and what you'd do if you had another 20 hours to further develop this project. 
+
+Please complete this task within 7 days. Thank you!
