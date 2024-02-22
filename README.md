@@ -2,11 +2,11 @@
 
 Welcome to the Propelr technical task for the Full-stack JavaScript Engineer role. 
 
-The aim of this task is to review how you tackle a "real life" project – however we don't want this task to **take no longer than 2-3 hours** so we're not expecting you to go deep on any one feature. 
+The aim of this task is to review how you tackle a "real life" project but we're not expecting you to go deep on any one feature.
 
 ## Goal
 
-For this task we'd like you to create a simple full-stack web application that allows a user to view properties from a listing and add new properties. You should use **React** on the frontend and **Node** on the backend, and your code should be written in **TypeScript**. Any other technology choices are up to you. 
+For this task we'd like you to create a simple full-stack web application that allows a user to view properties from a listing and add new properties. You should use **React** on the frontend and **Node** on the backend (you can use vanilla Node or a framework that makes sense to you), and your code should be written in **TypeScript**. Any other technology choices are up to you. 
 
 Please include two main frontend features: a **Property Listing** page and a form to **Add a Property** to the listing page:
 
